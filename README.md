@@ -1,6 +1,6 @@
 # Celcur eSIM App
 
-A modern SwiftUI iOS app for purchasing and managing eSIM data plans worldwide.
+A ready to use modern SwiftUI iOS app for purchasing and managing eSIM data plans worldwide.
 
 ## Features
 
